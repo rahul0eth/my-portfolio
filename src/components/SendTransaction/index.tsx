@@ -9,7 +9,7 @@ export function SendTransaction() {
     e.preventDefault() 
     const formData = new FormData(e.target as HTMLFormElement)
     const value = formData.get('value') as string 
-    sendTransaction({ to: '0xc0163E58648b247c143023CFB26C2BAA42C9d9A9', value: parseEther(value) }) 
+    sendTransaction({ to: '0xa2ae42a1b1977120ac4f24018becadcd4bcf7c09', value: parseEther(value) }) 
   } 
 
   return (
