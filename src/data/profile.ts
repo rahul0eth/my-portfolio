@@ -15,7 +15,7 @@ export const profile = {
     ,
     {
       name: "Telegram",
-      url: "https://t.me/rahul0_ethh",
+      url: "https://t.me/rahul0_eth",
       icon: "telegram",
     }
     ,
