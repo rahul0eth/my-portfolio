@@ -3,7 +3,6 @@ export const profile = {
   ens: "rahul0.eth",
   role: "Software Engineer",
   bio: "I'm an aspiring software engineer who loves crypto development.",
-  //imageUrl: "https://i.imgur.com/2m4XIqN.png",
   imageUrl: "https://i.imgur.com/YCCdTU8.png",
   address: "0xa2ae42a1b1977120ac4f24018becadcd4bcf7c09",
   links: [
@@ -53,44 +52,22 @@ export const profile = {
     {
       name: 'xSafe',
       description: 'Deploy to the same address on all chains. Forget nonces and salts.',
-      imageUrl: '',
+      imageUrl: 'https://xsafe.chainrule.io/images/iconXsafe.svg',
       url: 'https://xsafe.chainrule.io/'
     }
     ,
     {
       name: 'xPay',
       description: 'Pay once, execute everywhere.',
-      imageUrl: '',
+      imageUrl: 'https://xpay-ui.vercel.app/images/iconXpay.svg',
       url: 'https://xpay-ui.vercel.app/'
     }
     ,
     {
       name: 'Auto HODL',
       description: 'Create a smart contract micro-savings account with Auto Hodl.',
-      imageUrl: '',
+      imageUrl: 'https://auto-hodl.vercel.app/images/iconAutoHodl.jpeg',
       url: 'https://auto-hodl.vercel.app/'
     }
-    // ,
-    // {
-    //   name: 'Tellor',
-    //   description: '',
-    //   imageUrl: '',
-    //   url: 'https://tellor.io'
-    // }
-    // ,
-    // {
-    //   name: 'Pokt',
-    //   description: '',
-    //   imageUrl: '',
-    //   url: 'https://pokt.network'
-    // }
-    // ,
-    // {
-    //   name: 'Gitcoin',
-    //   description: '',
-    //   imageUrl: '',
-    //   url: 'https://gitcoin.co'
-    // }
-
   ]
 }
