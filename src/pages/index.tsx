@@ -99,11 +99,12 @@ const Page: React.FC = () => {
             <p className="text-white text-center text-base my-8">
               {profile?.bio ?? ""}
             </p>
-            <Tabs defaultValue="links" className="w-full">
+            <Tabs defaultValue="projects" className="w-full">
               <TabsList className="flex items-center justify-center">
+                <TabsTrigger value="projects">Projects</TabsTrigger>
                 <TabsTrigger value="links">Links</TabsTrigger>
                 <TabsTrigger value="nfts">NFTs</TabsTrigger>
-                <TabsTrigger value="projects">Projects</TabsTrigger>
+                
                 <TabsTrigger value="send">Donate</TabsTrigger>
               </TabsList>
               <TabsContent

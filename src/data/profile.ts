@@ -5,6 +5,28 @@ export const profile = {
   bio: "I'm an aspiring software engineer who loves crypto development.",
   imageUrl: "https://i.imgur.com/YCCdTU8.png",
   address: "0xa2ae42a1b1977120ac4f24018becadcd4bcf7c09",
+  projects: [
+    {
+      name: 'xSafe',
+      description: 'Deploy to the same address on all chains. Forget nonces and salts.',
+      imageUrl: 'https://xsafe.chainrule.io/images/iconXsafe.svg',
+      url: 'https://xsafe.chainrule.io/'
+    }
+    ,
+    {
+      name: 'xPay',
+      description: 'Pay once, execute everywhere.',
+      imageUrl: 'https://xpay-ui.vercel.app/images/iconXpay.svg',
+      url: 'https://xpay-ui.vercel.app/'
+    }
+    ,
+    {
+      name: 'Auto HODL',
+      description: 'Create a smart contract micro-savings account with Auto Hodl.',
+      imageUrl: 'https://auto-hodl.vercel.app/images/iconAutoHodl.jpeg',
+      url: 'https://auto-hodl.vercel.app/'
+    }
+  ],
   links: [
     {
       name: "Twitter",
@@ -34,40 +56,6 @@ export const profile = {
       name: "Warpcast",
       url: "https://warpcast.com/rahulb",
       icon: "warpcast",
-    }
-    // ,
-    // {
-    //   name: "Blog",
-    //   url: "https://blog.serotonindesigns.com",
-    //   icon: "",
-    // }
-    // ,
-    // {
-    //   name: 'Podcast',
-    //   url: 'https://open.spotify.com/show/2HfqI2dFN85uLLFwGqEk0d?si=f918a9d9ea6f4d38',
-    //   icon: ''
-    // }
-  ],
-  projects: [
-    {
-      name: 'xSafe',
-      description: 'Deploy to the same address on all chains. Forget nonces and salts.',
-      imageUrl: 'https://xsafe.chainrule.io/images/iconXsafe.svg',
-      url: 'https://xsafe.chainrule.io/'
-    }
-    ,
-    {
-      name: 'xPay',
-      description: 'Pay once, execute everywhere.',
-      imageUrl: 'https://xpay-ui.vercel.app/images/iconXpay.svg',
-      url: 'https://xpay-ui.vercel.app/'
-    }
-    ,
-    {
-      name: 'Auto HODL',
-      description: 'Create a smart contract micro-savings account with Auto Hodl.',
-      imageUrl: 'https://auto-hodl.vercel.app/images/iconAutoHodl.jpeg',
-      url: 'https://auto-hodl.vercel.app/'
     }
   ]
 }
