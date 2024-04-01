@@ -63,6 +63,13 @@ export const profile = {
       imageUrl: '',
       url: 'https://xpay-ui.vercel.app/'
     }
+    ,
+    {
+      name: 'Auto HODL',
+      description: 'Create a smart contract micro-savings account with Auto Hodl.',
+      imageUrl: '',
+      url: 'https://auto-hodl.vercel.app/'
+    }
     // ,
     // {
     //   name: 'Tellor',
