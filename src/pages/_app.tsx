@@ -44,7 +44,7 @@ const queryClient = new QueryClient();
           enableSystem
           disableTransitionOnChange
         >
-        <Component {...pageProps} />;
+        <Component {...pageProps} />
         </ThemeProvider>
         </ConnectKitProvider>
       </QueryClientProvider>
