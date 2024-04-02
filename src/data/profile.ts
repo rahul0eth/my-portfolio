@@ -31,31 +31,31 @@ export const profile = {
     {
       name: "Twitter",
       url: "https://twitter.com/rahul0_eth",
-      icon: "twitter",
+      icon: "https://ugc.production.linktr.ee/1227da40-468b-423a-b142-61c0161c97b3_brand-x.png?io=true&size=thumbnail-stack-v1_0",
     }
     ,
     {
       name: "Telegram",
       url: "https://t.me/rahul0_eth",
-      icon: "telegram",
+      icon: "https://ugc.production.linktr.ee/6a59007e-3063-457a-821f-8fca59f7bccd_849462-messenger-512x512.png",
     }
     ,
     {
       name: "GitHub",
       url: "https://github.com/rahul0eth",
-      icon: "github",
+      icon: "https://ugc.production.linktr.ee/dfb4eaa4-9e2b-41f9-8bf7-a78e628b6248_GitHub-Mark.png?io=true&size=thumbnail-stack-v1_0",
     }
     ,
     {
       name: "LinkedIn",
       url: "https://www.linkedin.com/in/rahul0eth/",
-      icon: "linkedin",
+      icon: "https://ugc.production.linktr.ee/58de2f56-1bae-4996-bd10-1b7b6c4dfafd_174857.png?io=true&size=thumbnail-stack-v1_0",
     }
     ,
     {
       name: "Warpcast",
       url: "https://warpcast.com/rahulb",
-      icon: "warpcast",
+      icon: "https://ugc.production.linktr.ee/02fcf974-95a5-45cd-b398-aa09226b5f73_https---i.imgur.com-3d6fFAI.png?io=true&size=thumbnail-stack-v1_0",
     }
   ]
 }

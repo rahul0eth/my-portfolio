@@ -116,7 +116,8 @@ const Page: React.FC = () => {
                     key={link.name}
                     href={link.url}
                     title={link.name}
-                    image="/LinkDefaultIcon.svg"
+                    image={link.icon}
+                    // image="/LinkDefaultIcon.svg"
                   />
                 ))}
               </TabsContent>
@@ -149,7 +150,8 @@ const Page: React.FC = () => {
                     key={project.name}
                     href={project.url}
                     title={project.name}
-                    image="/LinkDefaultIcon.svg"
+                    image={project.imageUrl}
+                    // image="/LinkDefaultIcon.svg"
                   />
                 ))}
               </TabsContent>
