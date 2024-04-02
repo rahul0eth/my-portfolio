@@ -50,4 +50,4 @@ const queryClient = new QueryClient();
       </QueryClientProvider>
     </WagmiProvider>
   );
-};
+}
