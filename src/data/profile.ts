@@ -3,7 +3,7 @@ export const profile = {
   ens: "rahul0.eth",
   role: "Software Engineer",
   bio: "I'm an aspiring software engineer who loves crypto development.",
-  imageUrl: "https://i.imgur.com/YCCdTU8.png",
+  imageUrl: "https://i.imgur.com/Pogp7WM.png",
   address: "0xa2ae42a1b1977120ac4f24018becadcd4bcf7c09",
   projects: [
     {
