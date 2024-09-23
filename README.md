@@ -1,4 +1,4 @@
-## Visit my portfolio site at [rahul0.eth.limo](https://rahul0.eth.limo)
+## Visit my portfolio site at [rahul0.vercel.app](https://rahul0.vercel.app) | [rahul0.eth.limo](https://rahul0.eth.limo)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
